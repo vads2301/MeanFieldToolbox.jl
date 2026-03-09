@@ -1,6 +1,6 @@
 name = "MeanFieldToolbox"
 uuid = "b00fcea2-f4b1-4480-b444-a0ed31c44801"
-authors = ["Anjishnu Bose","Andrew Hardy,"Samuel Vadnais"]
+authors = ["Anjishnu Bose","Andrew Hardy","Samuel Vadnais"]
 version = "1.1.2"
 
 [deps]
@@ -10,7 +10,7 @@ LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
 Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
-TightBindingToolbox = "2233325a-6eb3-486f-aff0-670e0939fa7e"
+TightBindingToolbox = "13a4984b-b5b7-4fd8-a152-96d56a584a77"
 Tullio = "bc48ee85-29a4-5162-ae0b-a64e1601d4bc"
 
 [compat]
